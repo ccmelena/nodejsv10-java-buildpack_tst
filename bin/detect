@@ -1,3 +1,5 @@
+echo ">>> Iniciando deteccion"
+
 #!/usr/bin/env bash
 # bin/detect <build-dir>
 
